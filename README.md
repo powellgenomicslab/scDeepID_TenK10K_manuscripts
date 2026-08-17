@@ -1,6 +1,6 @@
 # scDeepID_TenK10K_manuscripts
 
-This repository contains the scDeepID code used in the TenK10K manuscripts for single-cell cell-type modeling with pathway-aware deep learning.
+This repository contains the scDeepID code used in the TenK10K manuscripts for cell state modelling.
 
 ## Quickstart
 
