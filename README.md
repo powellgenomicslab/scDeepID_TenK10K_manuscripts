@@ -115,7 +115,7 @@ scDeepID.train(
 Training saves a single checkpoint — the last epoch — as `<PROJECT>/model-<EPOCHS-1>.pth`, since epochs are
 zero-indexed. With `EPOCHS = 10` that is `model-9.pth`, which is what `MODEL` above resolves to.
 
-### 3) Cell type prediction and reconstruction
+### 3) Prediction
 
 ```python
 res= scDeepID.pred(
